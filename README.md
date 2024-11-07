@@ -10,6 +10,8 @@ I have a bad memory and I like CLI tools. This CLI tool is a simple To-Do manage
 - **Delete tasks:** `-delete [index]`
 - **Clear all tasks:** `-clear`
 
+![image](https://github.com/user-attachments/assets/537b052a-99c0-4cb3-af49-aa8292bf8ded)
+
 ## How It Works
 Tasks are saved to a `todos.json` file. You can view, add, toggle (mark as finished or in-progress), delete, and clear tasks as needed.
 
